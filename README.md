@@ -1,13 +1,12 @@
 # ng2-translate
 
-Angular 2 Pipe in TypeScript that is used to translate your app into multi-languages. It also suitable for Inoic 2
+Angular 2 Pipe in TypeScript that is used to translate your app into multi-languages. It is suitable for Inoic 2
 
 ## Installation
 Just copy the file `eigonic-translate.ts` into your project.
 
 ## Usage
-
-Follow these steps to use the module.
+Follow these steps to use the module:
 1. Import the `eiognic` module into your code.
 2. Create languages bundle to have all the translations you have.
 3. Initialize the `eigonic.Translator` with the languages bandle and the default language.
