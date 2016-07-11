@@ -72,7 +72,7 @@ Default language is used in case the current language is not set. It's some sort
 
 ## Change/ switch language
 
-To changeor switch the current language. 
+To change or switch the current language. 
 
 ```javascript
     eigonic.Translator.switchLang('en');
