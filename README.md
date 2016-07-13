@@ -7,6 +7,8 @@ Just copy the file `eigonic-translate.ts` into your project.
 
 ## Usage
 Follow these steps to use the module:
+
+
 1. Import the `eiognic` module into your code.
 2. Create languages bundle to have all the translations you have.
 3. Initialize the `eigonic.Translator` with the languages bandle and the default language.
